@@ -1,2 +1,2 @@
-# dotall.github.io
-Dot All documentation
+# Dot All
+Dot All official documentation
